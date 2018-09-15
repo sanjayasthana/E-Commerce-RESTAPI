@@ -1,1 +1,3 @@
-# E-Commerce-RESTAPI-Angular-6
+# E-Commerce-REST API-Angular-6
+
+# Database : MS Sql Sever
